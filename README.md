@@ -13,25 +13,25 @@
 ### Landing 
 
 <p align="center">
-    <img alt="Landing" title="Landing" src="assets/Web/landingBeTheHero.PNG">
+    <img alt="Landing" title="Landing" src="assets/Web/landingBeTheHero.png">
 </p>
 
 ### Registro de Ongs
 
 <p align="center">
-    <img alt="Registro de Ongs" title="Register Be The Hero" src="assets/Web/RegisterBeTheHero.PNG">
+    <img alt="Registro de Ongs" title="Register Be The Hero" src="assets/Web/RegisterBeTheHero.png">
 </p>
 
 ### Home 
 
 <p align="center">
-    <img alt="Home Page" title="Home" src="assets/Web/homeBeTheHero.PNG" color="##8257e5">
+    <img alt="Home Page" title="Home" src="assets/Web/homeBeTheHero.png" color="##8257e5">
 </p>
 
 ### Registro de Casos 
 
 <p align="center">
-    <img alt="Registro de casos" title="Case Register" src="assets/Web/CaseRegister.PNG" color="##8257e5">
+    <img alt="Registro de casos" title="Case Register" src="assets/Web/CaseRegister.png" color="##8257e5">
 </p>
 
 ## Aplicação Mobile
