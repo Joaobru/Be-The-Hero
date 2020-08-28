@@ -31,7 +31,7 @@
 ### Registro de Casos 
 
 <p align="center">
-    <img alt="Registro de casos" title="Case Register" src="assets/Web/CaseRegister.png" color="##8257e5">
+    <img alt="Registro de casos" title="Case Register" src="assets/Web/CaseRegisterBeTheHero.png" color="##8257e5">
 </p>
 
 ## Aplicação Mobile
