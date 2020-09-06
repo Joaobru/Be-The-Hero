@@ -8,7 +8,7 @@
   animal e estimando o valor que precisa ser atingido para ajuda-lo, ex: um animal que foi atropelado e necessita de R$ 120,00 para sua cirurgia), as pessoas podem ver os casos registrados, e qual foi a ONG que realizou o cadastro do caso, podendo ajudar com uma doação, o app pode ser visto por dispositivos Android e IOS.
 </p>
 
-## Aplicação Web
+## :computer: Aplicação Web
 
 ### Landing 
 
@@ -34,7 +34,7 @@
     <img alt="Registro de casos" title="Case Register" src="assets/Web/CaseRegisterBeTheHero.png" color="##8257e5">
 </p>
 
-## Aplicação Mobile
+## :iphone: Aplicação Mobile
 
 <table>
   <tr>
@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-## Funcionalidades
+## :bulb: Funcionalidades
 
 * Criar Usuários;
 
@@ -69,7 +69,13 @@
 
 * Criar Casos.
 
-## Para rodar a aplicação
+## :wrench: Pré-requisitos
+
+ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e o [Expo](https://expo.io/). 
+Além disto é bom ter um editor para trabalhar com o código como o [VSCode](https://code.visualstudio.com/)
+
+## :rocket: Para rodar a aplicação
 
   ```bash
 
@@ -97,7 +103,7 @@ $ npm start ou yarn start
 ```
 
 
-## Tecnologias
+## 🛠 Tecnologias
 
   * [Node.js](https://nodejs.org/en/) (Back-End);
 
