@@ -71,31 +71,41 @@
 
 ## Para rodar a aplicação
 
-  * A primeira coisa é executar o comando yarn ou npm install,
-  para instalar todas as dependencias necessárias para rodar o
-  servidor, execute esse comando nas pastas Web, Mobile e Server.
+  ```bash
 
-  * Após a execução do comando yarn ou npm install efetue yarn start
-  ou npm start na ordem de Servidor/Web ou Mobile, pois O lado do cliente
-  (Web/Mobile) dependem do servidor.
+# Clone este repositório
+$ git clone https://github.com/Joaobru/Be-The-Hero.git
 
-  * Exclusivamente na parte da aplicação mobile é preciso instalar o Expo 
-  no seu celular, quando você rodar a aplicação Mobile com o comando yarn
-  start, o seu navegador irá abrir mostrando um QrCode, abra o Expo no seu
-  celular, e clique na opção "Scan QR Code", aponte a câmera para o QrCode
-  e aproveite para fazer testes no Proffy. 
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Be-The-Hero-master
 
-  * É extremamente importante rodar o server antes da aplicação Mobile ou Web. 
+# Execute o comando nas pastas server/web/mobile para instalar todas as dependências
+$ npm install ou yarn
+
+# Execute a aplicação em modo de desenvolvimento, é importante executar este
+# comando primeiro no server depois no web ou mobile
+$ npm start ou yarn start
+
+# A aplicação web será aberta na porta:3000 - acesse http://localhost:3000
+
+# Exclusivamente para rodar a aplicação mobile é preciso instalar o Expo 
+# no seu celular, quando você rodar a aplicação Mobile com o comando yarn
+# start, o seu navegador irá abrir mostrando um QrCode, abra o Expo no seu
+# celular, e clique na opção "Scan QR Code", aponte a câmera para o QrCode
+# e aproveite para fazer testes no Be the Hero
+
+```
+
 
 ## Tecnologias
 
-  * NodeJS (Back-End);
+  * [Node.js](https://nodejs.org/en/) (Back-End);
 
-  * ReactJS (Web Front-End);
+  * [ReactJS](https://reactjs.org/) (Web Front-End);
 
-  * React-Native (Mobile Front-End);
+  * [React-Native](https://reactnative.dev/) (Mobile Front-End);
 
-  * SQLite (Banco de Dados);
+  * [SQLite](https://www.sqlite.org/index.html) (Banco de Dados);
 
 
 
